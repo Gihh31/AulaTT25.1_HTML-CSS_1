@@ -1,0 +1,20 @@
+* {
+    font-size: medium;
+}
+
+.menu {
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+
+.teste {
+    color: blue
+}
+
+#latim {
+    color: blueviolet
+}
+
+.botao:hover {
+    color: brown
+}
